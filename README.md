@@ -4,4 +4,4 @@ GET http requests to a URL indefinitely every <interval> seconds
 
 get_requests.py
 Usage: get_requests.py [N_of_consecutive_GET_calls] [interval] [URL]
-	Script runs N consecutive GET calls against URL every interval sec
+       Script runs N consecutive GET calls against URL every interval sec
